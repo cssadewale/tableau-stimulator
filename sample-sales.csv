@@ -1,0 +1,17 @@
+Order ID,Order Date,Region,State,Category,Sub-Category,Customer Segment,Sales,Profit,Quantity,Discount
+TS-1001,2026-01-05,West,Lagos,Technology,Phones,Consumer,120000,25000,3,0.05
+TS-1002,2026-01-07,North,Kano,Furniture,Chairs,Corporate,85000,12000,5,0.10
+TS-1003,2026-01-11,South,Rivers,Office Supplies,Binders,Home Office,32000,5200,8,0.00
+TS-1004,2026-01-15,East,Enugu,Technology,Accessories,Consumer,67000,18000,6,0.05
+TS-1005,2026-01-18,West,Ogun,Furniture,Tables,Corporate,145000,-7000,2,0.15
+TS-1006,2026-02-02,North,Kaduna,Office Supplies,Paper,Consumer,21000,4100,10,0.00
+TS-1007,2026-02-09,South,Akwa Ibom,Technology,Copiers,Corporate,250000,68000,1,0.05
+TS-1008,2026-02-14,East,Abia,Office Supplies,Storage,Home Office,59000,9000,7,0.05
+TS-1009,2026-03-03,West,Lagos,Furniture,Bookcases,Consumer,98000,15000,4,0.10
+TS-1010,2026-03-10,North,Katsina,Technology,Phones,Corporate,132000,31000,3,0.05
+TS-1011,2026-03-16,South,Delta,Office Supplies,Labels,Consumer,18000,3600,12,0.00
+TS-1012,2026-04-01,East,Anambra,Furniture,Chairs,Home Office,76000,11000,4,0.10
+TS-1013,2026-04-08,West,Oyo,Technology,Accessories,Consumer,54000,14000,5,0.00
+TS-1014,2026-04-19,North,Plateau,Office Supplies,Binders,Corporate,39000,6200,9,0.05
+TS-1015,2026-05-04,South,Bayelsa,Furniture,Tables,Consumer,118000,-4500,2,0.20
+TS-1016,2026-05-12,East,Imo,Technology,Copiers,Corporate,310000,82000,1,0.05
